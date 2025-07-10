@@ -1,11 +1,11 @@
 header,
 footer,
 .navbar {
-  background-color: #0d6efd;
+  background-color: #084298;
 }
 
 .nav-link:hover {
-  background-color: #084274;
+  background-color: #084298;
   color: #ffffff;
 }
 
